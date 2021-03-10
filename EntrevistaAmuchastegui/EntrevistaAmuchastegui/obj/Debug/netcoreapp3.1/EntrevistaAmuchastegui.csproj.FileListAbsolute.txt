@@ -1,0 +1,13 @@
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.csprojAssemblyReference.cache
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.AssemblyInfoInputs.cache
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.AssemblyInfo.cs
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.csproj.CoreCompileInputs.cache
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\bin\Debug\netcoreapp3.1\EntrevistaAmuchastegui.exe
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\bin\Debug\netcoreapp3.1\EntrevistaAmuchastegui.deps.json
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\bin\Debug\netcoreapp3.1\EntrevistaAmuchastegui.runtimeconfig.json
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\bin\Debug\netcoreapp3.1\EntrevistaAmuchastegui.runtimeconfig.dev.json
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\bin\Debug\netcoreapp3.1\EntrevistaAmuchastegui.dll
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\bin\Debug\netcoreapp3.1\EntrevistaAmuchastegui.pdb
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.dll
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.pdb
+C:\Users\octavio.amuchastegui\source\repos\EntrevistaAmuchastegui\EntrevistaAmuchastegui\obj\Debug\netcoreapp3.1\EntrevistaAmuchastegui.genruntimeconfig.cache
